@@ -4,7 +4,7 @@
   "description": "Monitors an Instagram account and send images to a Discord channel by a webhook when new posts are found.",
   "main": "main.js",
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.2",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.1"
